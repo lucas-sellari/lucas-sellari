@@ -1,6 +1,6 @@
 ## Hey! Eu sou o Lucas ✌️😉
 
-- 🌱 Estou aprendendo sobre front-end (vanilla, react e um pouco de NextJS) e sobre back-end (experimentando com node, ruby e java, mas focando em node)
+- 🌱 Estou aprendendo sobre front-end (vanilla, react e um pouco de NextJS e Vue 3) e sobre back-end (experimentando com node, ruby e java, mas focando em node)
 - 📚 Estudando engenharia da computação na Escola Politécnica da USP
 - 🗂️ Atualmente desenvolvo um projeto de transpilação de descrições VHDL para JavaScript
 - 😄 Pronomes: ele/dele
